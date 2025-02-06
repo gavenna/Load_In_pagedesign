@@ -1,0 +1,5 @@
+C:\Users\Mckel\Desktop\Csharp\HELLO\WpfApp4\WpfApp4\bin\Release\net8.0-windows\publish\WpfApp4.exe
+C:\Users\Mckel\Desktop\Csharp\HELLO\WpfApp4\WpfApp4\bin\Release\net8.0-windows\publish\WpfApp4.dll
+C:\Users\Mckel\Desktop\Csharp\HELLO\WpfApp4\WpfApp4\bin\Release\net8.0-windows\publish\WpfApp4.deps.json
+C:\Users\Mckel\Desktop\Csharp\HELLO\WpfApp4\WpfApp4\bin\Release\net8.0-windows\publish\WpfApp4.runtimeconfig.json
+C:\Users\Mckel\Desktop\Csharp\HELLO\WpfApp4\WpfApp4\bin\Release\net8.0-windows\publish\WpfApp4.pdb
